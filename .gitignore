@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Generated/backup files
+CruisingApp.html
+cruising-app.zip
+dataurl.txt
